@@ -1,0 +1,23 @@
+[
+    {
+        "title": "HTML：从标题和段落开始",
+        "date": "2026-10-30",
+        "tag": "HTML",
+        "excerpt": "第一次把文字放进网页，学会用标题分层、用段落组织内容。",
+        "url": "post.html"
+    },
+    {
+        "title": "CSS：给网页加上色彩",
+        "date": "2026-10-31",
+        "tag": "CSS",
+        "excerpt": "学会颜色、间距、圆角和阴影，把结构变成能看的页面。",
+        "url": "post.html"
+    },
+    {
+        "title": "JavaScript：让页面动起来",
+        "date": "2026-11-01",
+        "tag": "JS",
+        "excerpt": "用按钮、事件和类名切换，做出第一个交互效果。",
+        "url": "post.html"
+    }
+]
